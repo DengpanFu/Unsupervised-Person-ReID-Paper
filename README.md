@@ -12,7 +12,7 @@ Current Unsupervised Person ReID Paper&amp;Code
 | [Unsupervised Tracklet Person Re-Identification](https://arxiv.org/pdf/1903.00535.pdf) | UTAL | TPAMI2019 | 46.2/69.2 | 44.6/62.3 | - |
 | [Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification](https://arxiv.org/abs/1904.01990) | ECN | CVPR2019 | 43.0/75.1 | 40.4/63.3 | https://github.com/zhunzhong07/ECN
 | [Unsupervised Person Re-identification by Soft Multilabel Learning](https://arxiv.org/abs/1903.06325) | MAR | CVPR2019 | 40.0/67.7* | 48.0/67.1* | https://github.com/KovenYu/MAR |
-| [Unsupervised Person Re-Identification with Iterative Self-Supervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Tang_Unsupervised_Person_Re-Identification_With_Iterative_Self-Supervised_Domain_Adaptation_CVPRW_2019_paper.pdf) | - | CVPR2019W | 63.1/81.3 | 54.1/72.8 | - |
+| [Unsupervised Person Re-Identification with Iterative Self-Supervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Tang_Unsupervised_Person_Re-Identification_With_Iterative_Self-Supervised_Domain_Adaptation_CVPRW_2019_paper.pdf) | ISSDA-ReID | CVPR2019W | 63.1/81.3 | 54.1/72.8 | - |
 | [Patch-based discriminative feature learning for unsupervised person re-identification](https://kovenyu.com/papers/2019_CVPR_PEDAL.pdf) | PAUL | CVPR2019 | 40.1/68.5* | 53.2/72.0* | https://github.com/QizeYang/PAUL |
 | [Unsupervised Person Re-identification by Deep Asymmetric Metric Embedding](https://kovenyu.com/papers/DECAMEL_arxiv.pdf) | DECAMEL | TPAMI2019 | 32.44/60.24 | - | https://github.com/KovenYu/DECAMEL |
 | [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) | BUC | AAAI2019 | 38.3/66.2 | 27.5/47.4 | https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification |
@@ -21,4 +21,4 @@ Current Unsupervised Person ReID Paper&amp;Code
 | - | - | - | - | - | - |
 
 
-\* means trained with MSMT17 dataset
+\* Means trained with MSMT17 dataset
