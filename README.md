@@ -17,8 +17,8 @@ Current Unsupervised Person ReID Paper&amp;Code
 | [Unsupervised Person Re-identification by Deep Asymmetric Metric Embedding](https://kovenyu.com/papers/DECAMEL_arxiv.pdf) | DECAMEL | TPAMI2019 | 32.44/60.24 | - | https://github.com/KovenYu/DECAMEL |
 | [Learning to Adapt Invariance in Memory for Person Re-identification](https://arxiv.org/pdf/1908.00485.pdf) | ECN+GPP | TPAMI2019 | 63.8/84.1 | 54.4/74.0 | - |
 | [Adversarial Camera Alignment Network for Unsupervised Cross-camera Person Re-identification](https://arxiv.org/pdf/1908.00862.pdf) | ACAN | TIP? | 50.6/73.3 | 46.6/65.1 | - |
-| [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) | BUC | AAAI2019 | (M) 29.6.3/61.9 | (D) 22.1/40.4 | https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification |
+| [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) | BUC | AAAI2019 | (M) ~~38.3/66.2~~ 29.6/61.9 | (D) ~~27.5/47.4~~ 22.1/40.4 | https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification |
+| [Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification](https://arxiv.org/pdf/1906.01308.pdf) | DBC | Arxiv19(TMM?) | (M) ~~41.3/69.2~~ | (D) ~~30.0/51.5~~| https://github.com/gddingcs/Dispersion-based-Clustering |
 | - | - | - | - | - | - |
-
 
 \* Means trained with MSMT17 dataset, (M) means trained with Market Only, (D) means trained with Duke Only
