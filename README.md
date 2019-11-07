@@ -19,6 +19,8 @@ Current Unsupervised Person ReID Paper&amp;Code
 | [Adversarial Camera Alignment Network for Unsupervised Cross-camera Person Re-identification](https://arxiv.org/pdf/1908.00862.pdf) | ACAN | TIP? | 50.6/73.3 | 46.6/65.1 | - |
 | [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf) | BUC | AAAI2019 | (M) ~~38.3/66.2~~ 29.6/61.9 | (D) ~~27.5/47.4~~ 22.1/40.4 | https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification |
 | [Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification](https://arxiv.org/pdf/1906.01308.pdf) | DBC | Arxiv19(TMM?) | (M) ~~41.3/69.2~~ | (D) ~~30.0/51.5~~| https://github.com/gddingcs/Dispersion-based-Clustering |
-| - | - | - | - | - | - |
+| [Adaptive Exploration for Unsupervised Person Re-Identification](https://arxiv.org/pdf/1907.04194.pdf) | AE | Arxiv19(TMM?) | 54.0/77.5 | 39.6/63.2 | https://github.com/dyh127/Adaptive-Exploration-for-Unsupervised-Person-Re-Identification |
+| [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf) | PUL | TOMCCAP17 | (D,C->M) 24.8/50.9 | (M,C->D) 21.5/36.5 | https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning |
+| [Hierarchical Clustering-guided re-ID with Triplet loss](https://arxiv.org/pdf/1910.12278.pdf) | HRC | Arxiv19 | (M) 55.3/79.5 | (D) 46.8/66.0 | - |
 
 \* Means trained with MSMT17 dataset, (M) means trained with Market Only, (D) means trained with Duke Only
