@@ -24,6 +24,8 @@ Current Unsupervised Person ReID Paper&amp;Code
 | [Hierarchical Clustering-guided re-ID with Triplet loss](https://arxiv.org/pdf/1910.12278.pdf) | HRC | Arxiv19 | (M) 55.3/79.5 | (D) 46.8/66.0 | - |
 | [Consistent Cross-view Matching for Unsupervised Person Re-identification](https://arxiv.org/pdf/1908.10486.pdf) | CCM | Arxiv19 | (M)~~43.1/71.7~~ | - | - |
 | [Unsupervised Person Re-identification via Multi-label Classification](https://arxiv.org/pdf/2004.09228.pdf) | MMCL | CVPR20 | 45.5/80.3 | 40.2/65.2 | - |
+| [Unsupervised Person Re-identification via Softened Similarity Learning](https://arxiv.org/pdf/2004.03547.pdf) | SSL | CVPR20 | 37.8/71.7 | 28.6/52.5 | - |
+
 | - | - | - | - | - | - |
 
 \* Means trained with MSMT17 dataset, (M) means trained with Market Only, (D) means trained with Duke Only
