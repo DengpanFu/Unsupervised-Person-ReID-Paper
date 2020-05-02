@@ -25,4 +25,5 @@ Current Unsupervised Person ReID Paper&amp;Code
 | [Consistent Cross-view Matching for Unsupervised Person Re-identification](https://arxiv.org/pdf/1908.10486.pdf) | CCM | Arxiv19 | (M)~~43.1/71.7~~ | - | - |
 | [Unsupervised Person Re-identification via Multi-label Classification](https://arxiv.org/pdf/2004.09228.pdf) | MMCL | CVPR20 | 45.5/80.3 | 40.2/65.2 | - |
 | - | - | - | - | - | - |
+
 \* Means trained with MSMT17 dataset, (M) means trained with Market Only, (D) means trained with Duke Only
